@@ -1,0 +1,1 @@
+This is where would would insert our End User License Agreement (EULA). This could be a legal document that would be able to take blame off Komo if the EULA is written to do so.

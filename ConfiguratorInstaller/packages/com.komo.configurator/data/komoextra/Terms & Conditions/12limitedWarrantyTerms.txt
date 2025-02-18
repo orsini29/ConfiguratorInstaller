@@ -1,0 +1,35 @@
+Komo Machine Inc. warrants its equipment to be free of defects in workmanship and materials for a
+period of the lesser of two (2) years or 4000 hours, whichever comes first, but never less than one (1) year, from the date of
+installation. All time study figures are estimates only, based on our understanding of accuracy and finish required, machineability
+of the material, amount of material to be removed and Customers operating conditions and do not constitute warranties. This
+warranty covers all electrical and mechanical components, other than those wear items listed below. Labor, travel and living
+expenses for a Komo technician to replace defective components are covered under the first year of the warranty, with the
+second year being parts only. All claims under this warranty must be made in writing to Komo Machine's Customer Service
+Department within the warranty period time frame. Upon receipt of authorization from Komo, the item / component claimed to be
+defective must be returned freight prepaid to Komo or repaired by a Komo authorized representative. Komo will repair, or at its
+option, replace any defective components, and will return the repaired equipment or its replacement without charge. Komo
+reserves the right to use either new or remanufactured components. This warranty does not extend to equipment that has been
+subject to misuse, neglect, accident, improper installation, operation or maintenance, or to equipment that has been altered or
+repaired by personnel other than those employed by Komo or acting under Komo's direction. Any work done to the
+machine/equipment or components replaced not at the direction of Komo Machine, will void the warranty. Any use of non-OEM parts
+must have the approval of Komo Machine's Customer Service Department. Use of non-OEM parts will void the complete machine
+warranty if not previously approved by Komo Machine. Warranty approval rests solely with Komo Machine. Komo shall not, in any
+event, be liable for any accidental or consequential damages associated with machine usage or downtime.This warranty excludes the 
+following wear items and any items Komo determines are wearable items: axis belts, dust collection brushes, dust collection hoses, 
+vacuum hoses, filters, batteries, light bulbs, fuses, air filters, ac / heat exchanger filters, chiller filters, spindle coolant 
+filters, spindle coolant, chiller filters, vacuum filters, vacuum oil, part location pins, and perishable tooling. Machine 
+installation must take place within 45 days of shipment. If the machine has not been installed for whatever reason, the machine 
+warranty period will commence on the 45th day.
+
+
+*Note:
+
+*If a warranty claim is requested, the customer will need to provide a purchase order number to Komo Machine before the service
+*call can be scheduled. An evaluation during or after the service call will determine whether the service call is a valid warranty
+*claim. If it is determined to be a valid warranty claim, the purchase order will be considered void, and Komo Machine will cover all
+*expenses. If the failure is determined to be from a crash or neglect, the call will be deemed non-warranty and all charges and
+*fees will be invoiced against the purchase order number.
+*Warranty is transferable, but requires a pre-production inspection and re-installation by Komo Machine.
+*The foregoing warranties are exclusive and are in lieu of all other warranties. Komo makes no other warranty of any kind
+*whatever, express or implied; and all implied warranties of merchantability and fitness for a particular purpose are hereby
+*disclaimed.

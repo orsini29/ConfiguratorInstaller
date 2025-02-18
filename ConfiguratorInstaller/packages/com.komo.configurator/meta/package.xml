@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <Package>
+        <DisplayName>Komo Configurator</DisplayName>
+        <Description>This installer will download the Configurator program onto your machine.</Description>
+        <Version>0.1.0-1</Version>
+        <ReleaseDate>2023-08-17</ReleaseDate>
+        <Licenses>
+            <License name="eula" file="EULA.txt"/>
+        </Licenses>
+        <Default>true</Default>
+    </Package>    

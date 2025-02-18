@@ -1,0 +1,6 @@
+Once an order is accepted by the Company, it cannot be canceled, except with the Companys written consent.
+In addition, Company and Customer agree that it may be difficult, if not impossible, to accurately determine the amount of
+damage arising from cancellation by Customer. Therefore, Customer agrees if an order is canceled with written consent of the
+Company, more than fifteen (15) days after the date of the order, the Customer shall remain liable for a liquidated damages
+payment of not less than the original nonrefundable down payment and up to 100% of the purchase order price, depending upon
+the percentage of completion of the machine at the time of cancellation.
